@@ -6,3 +6,7 @@
 
 2/24/2025
 - Uploaded Homework.cs file
+
+3/24/25
+- Uploaded Homework7program.cs
+- Uploaded Homework7customer.cs
